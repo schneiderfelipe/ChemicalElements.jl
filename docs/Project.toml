@@ -1,0 +1,3 @@
+[deps]
+ChemicalElements = "93ccf7a8-3646-4941-ab62-976e64c081ff"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
