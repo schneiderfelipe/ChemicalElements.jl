@@ -8,6 +8,7 @@ module ChemicalElements
 
 export ChemicalElement
 export @ce_str
+export number
 
 export symbol
 export radius
